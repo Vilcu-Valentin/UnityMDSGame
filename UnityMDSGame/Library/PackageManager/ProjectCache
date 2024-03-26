@@ -5,22 +5,22 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638470522518066212
-    m_Hash: 3883745484
+      ticks: 638470551641783447
+    m_Hash: 2769422078
   m_LockFileStatus:
     m_FilePath: D:/Apps/UnityHub/Projects/UnityMDSGame/UnityMDSGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638470522518181766
-    m_Hash: 937237509
+      ticks: 638470551890812900
+    m_Hash: 296293722
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: D:/Apps/UnityHub/Projects/UnityMDSGame/UnityMDSGame/Packages
-m_EditorVersion: 2022.3.21f1 (bf09ca542b87)
+m_EditorVersion: 2022.3.22f1 (887be4894c44)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.3.1
   testable: 0
@@ -116,9 +116,8 @@ m_ResolvedPackages:
     - 2.2.0
     - 2.3.1
     compatible:
-    - 2.2.0
     - 2.3.1
-    recommended: 2.2.0
+    recommended: 2.3.1
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -156,19 +155,19 @@ m_ResolvedPackages:
     revision: 613362ccb4468f55ee42e0a35809fb9a61f3f8f1
     path: 
   unityLifecycle:
-    version: 2.2.0
+    version: 2.3.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.rider@3.0.27
+- packageId: com.unity.ide.rider@3.0.28
   testable: 0
   isDirectDependency: 1
-  version: 3.0.27
+  version: 3.0.28
   source: 1
-  resolvedPath: D:\Apps\UnityHub\Projects\UnityMDSGame\UnityMDSGame\Library\PackageCache\com.unity.ide.rider@3.0.27
+  resolvedPath: D:\Apps\UnityHub\Projects\UnityMDSGame\UnityMDSGame\Library\PackageCache\com.unity.ide.rider@3.0.28
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -228,7 +227,6 @@ m_ResolvedPackages:
     - 3.0.27
     - 3.0.28
     compatible:
-    - 3.0.27
     - 3.0.28
     recommended: 3.0.28
     deprecated: []
@@ -249,16 +247,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638373878680000000
+  datePublishedTicks: 638447139880000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: 1d471c19a7f21834ae5b8d0358fd6f9b242c1ee8
+    revision: f4880c72477e9bbd7321c0dbda4428fa10d916df
     path: 
   unityLifecycle:
-    version: 3.0.27
+    version: 3.0.28
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1128,12 +1126,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.visualscripting@1.9.1
+- packageId: com.unity.visualscripting@1.9.2
   testable: 0
   isDirectDependency: 1
-  version: 1.9.1
+  version: 1.9.2
   source: 1
-  resolvedPath: D:\Apps\UnityHub\Projects\UnityMDSGame\UnityMDSGame\Library\PackageCache\com.unity.visualscripting@1.9.1
+  resolvedPath: D:\Apps\UnityHub\Projects\UnityMDSGame\UnityMDSGame\Library\PackageCache\com.unity.visualscripting@1.9.2
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1180,7 +1178,6 @@ m_ResolvedPackages:
     - 1.9.1
     - 1.9.2
     compatible:
-    - 1.9.1
     - 1.9.2
     recommended: 1.9.2
     deprecated:
@@ -1210,16 +1207,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638284821510000000
+  datePublishedTicks: 638452551610000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 5e78e9c354ed1567dbcea08e2bd9992e4a473cfb
+    revision: 0dd874ef58a75ee4b4df6a81e65230e2602096a3
     path: 
   unityLifecycle:
-    version: 1.9.1
+    version: 1.9.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
